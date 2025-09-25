@@ -101,8 +101,6 @@ Summarizes the results after a learning session, showing the user’s score, ses
 Choose Learning Level: Easy, Medium, Difficult
 Allows users to set their learning difficulty according to their comfort or challenge level, fostering personalized progression in the Learn English AI module. 
 
-
-![image alt](https://github.com/LokeshChintapalli/Learning_Hub/blob/90a3bc960b528d57e5ce60493254d46a4112bc90/Screenshot%20(379).png)
 English AI Tutor Conversation Example
 Displays a user interacting with the AI English tutor. The chat-style interface allows real conversation practice, and the system gives feedback on pronunciation, grammar, and vocabulary.
 
