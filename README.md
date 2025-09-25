@@ -72,7 +72,7 @@ If you want, I can help generate a detailed README.md file for your repo.
 
 
 
-Screenshot-378.jpg
+[Screenshot-378.jpg](https://github.com/LokeshChintapalli/Learning_Hub/blob/c97d692d29f061fdb312334593d4cc7a1ceb36da/Screenshot%20(378).png)
 Login & SignUp Page
 Shows a modern login and registration interface for users to sign in or create their account securely. This is the entry point for all platform features.
 
