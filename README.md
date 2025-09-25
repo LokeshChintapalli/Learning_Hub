@@ -66,51 +66,6 @@ Would you like me to help generate a full detailed README.md file text for your 
 
 ***
 
-# AI-Powered Learning Platform
 
-## Overview
-An AI-driven e-learning platform offering personalized education via voice-enabled assistants, document summarization, and language learning modules.
-
-## Features
-- AI Virtual Assistant for interactive learning
-- Document Summarizer supporting PDF and Word formats
-- English language learning with grammar tools
-- Secure authentication and user management
-
-## Technologies Used
-- React.js (Frontend)
-- Node.js with Express (Backend)
-- MongoDB (Database)
-- Google Gemini AI API, Web Speech API, LanguageTool API
-
-## Getting Started
-
-### Clone the repo:
-```
-git clone https://github.com/LokeshChintapalli/Learning_Hub.git
-```
-
-### Install dependencies:
-```
-cd backend && npm install
-cd ../frontend && npm install
-```
-
-### Run the project:
-```
-# Backend
-npm start
-
-# Frontend
-npm start
-```
-
-## Contributing
-Contributions welcome via pull requests.
-
-## License
-MIT License
-
-***
 
 If you want, I can help generate a detailed README.md file for your repo.
