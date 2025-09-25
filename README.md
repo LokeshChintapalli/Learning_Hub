@@ -69,3 +69,56 @@ Would you like me to help generate a full detailed README.md file text for your 
 
 
 If you want, I can help generate a detailed README.md file for your repo.
+
+
+
+Screenshot-378.jpg
+Login & SignUp Page
+Shows a modern login and registration interface for users to sign in or create their account securely. This is the entry point for all platform features.
+
+Screenshot-379.jpg
+English AI Tutor Conversation Example
+Displays a user interacting with the AI English tutor. The chat-style interface allows real conversation practice, and the system gives feedback on pronunciation, grammar, and vocabulary.
+
+Screenshot-380.jpg
+Main Dashboard
+This is the central dashboard that welcomes users and provides quick access to core modules (Virtual Assistant, Document Summarizer, Learn English) along with stats about available features.
+
+Screenshot-381.jpg
+Module Selection Screen
+Helps users choose between available AI-powered modules: Virtual Assistant, Document Summarizer, and Learn English, each introduced with a brief description.
+
+Screenshot-382.jpg
+Create Account Form
+A clean and intuitive Signup page where new users enter their details to join the platform, designed for a smooth onboarding experience.
+
+Screenshot-383.jpg
+Document Summarizer Upload
+Demonstrates the drag-and-drop or file selection interface for the Simple Document Summarizer module; supports PDF, DOCX, and TXT files.
+
+Screenshot-384.jpg
+Session Complete & Breakdown
+Summarizes the results after a learning session, showing the user’s score, session duration, messages exchanged, new vocabulary, and a detailed skill breakdown.
+
+Screenshot-385.jpg
+Choose Learning Level: Easy, Medium, Difficult
+Allows users to set their learning difficulty according to their comfort or challenge level, fostering personalized progression in the Learn English AI module.
+
+Screenshot-386.jpg
+AI Tutor Features Panel
+Highlights the three core features provided by the AI Tutor—Speech Recognition, Grammar Correction, and Vocabulary Building—for a robust language learning experience.
+
+Screenshot-387.jpg
+Topic Selection for English AI Tutor
+Enables users to choose among conversation topics (Sports, Business, Travel, Food, Technology, Health), tailoring practice sessions to their interests or needs.
+
+Screenshot-388.jpg
+Performance Feedback and Analytics
+Offers detailed per-session feedback including pronunciation score, grammar evaluation, and vocabulary stats, providing users with actionable insights.
+
+Screenshot-390.jpg
+Session Completion Analytics
+Displays a visual summary of a session’s achievements (overall score, message count, new vocabulary learned), motivating continued practice and improvement.
+
+These descriptions will enhance your project's README and make the screenshots informative and context-rich for viewers. If you need markdown formatting with image integration as well, let me know!
+
