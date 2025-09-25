@@ -41,7 +41,7 @@ Start the backend and frontend servers:
 
 ```
 # Backend
-npm start
+npm run dev
 
 # Frontend
 npm start
