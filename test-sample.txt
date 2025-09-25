@@ -1,0 +1,11 @@
+This is a sample document for testing Module 2 functionality. 
+
+The document summarization module should be able to process this text file and extract meaningful content. This text contains multiple paragraphs to test the chunking and processing capabilities.
+
+Key features to test:
+1. File upload and processing
+2. Text extraction from files
+3. Document storage in database
+4. Basic API response structure
+
+This sample document provides enough content to verify that the document processing pipeline is working correctly, even without the AI summarization due to quota limits.

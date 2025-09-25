@@ -1,0 +1,41 @@
+.assistant-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    text-align: center;
+}
+
+.robot-animation-wrapper {
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.status-indicator {
+    margin-bottom: 1.5rem;
+}
+
+.status-indicator p {
+    font-size: 1.2rem;
+    color: #4CAF50;
+    font-weight: bold;
+    animation: pulse 1.5s infinite;
+    margin: 0;
+}
+
+.transcript-display {
+    min-height: 4rem;
+    margin-bottom: 1.5rem;
+    padding: 0 1rem;
+    width: 100%;
+    max-width: 600px;
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.05); opacity: 0.7; }
+    100% { transform: scale(1); opacity: 1; }
+}
