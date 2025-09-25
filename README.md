@@ -77,7 +77,7 @@ Login & SignUp Page
 Shows a modern login and registration interface for users to sign in or create their account securely. This is the entry point for all platform features.
 
 
-Screenshot-380.jpg
+![image alt](https://github.com/LokeshChintapalli/Learning_Hub/blob/fe23801ce843079d097cb6205cbb6b90c704e2ce/Screenshot%20(380).png)
 Main Dashboard
 This is the central dashboard that welcomes users and provides quick access to core modules (Virtual Assistant, Document Summarizer, Learn English) along with stats about available features.
 
@@ -101,7 +101,7 @@ Screenshot-385.jpg
 Choose Learning Level: Easy, Medium, Difficult
 Allows users to set their learning difficulty according to their comfort or challenge level, fostering personalized progression in the Learn English AI module. 
 
-![image alt](https://github.com/LokeshChintapalli/Learning_Hub/blob/fe23801ce843079d097cb6205cbb6b90c704e2ce/Screenshot%20(380).png)
+
 English AI Tutor Conversation Example
 Displays a user interacting with the AI English tutor. The chat-style interface allows real conversation practice, and the system gives feedback on pronunciation, grammar, and vocabulary.
 
