@@ -76,7 +76,7 @@ If you want, I can help generate a detailed README.md file for your repo.
 Login & SignUp Page
 Shows a modern login and registration interface for users to sign in or create their account securely. This is the entry point for all platform features.
 
-Screenshot-379.jpg
+![image alt](https://github.com/LokeshChintapalli/Learning_Hub/blob/c97d692d29f061fdb312334593d4cc7a1ceb36da/Screenshot%20(37)9.png)
 English AI Tutor Conversation Example
 Displays a user interacting with the AI English tutor. The chat-style interface allows real conversation practice, and the system gives feedback on pronunciation, grammar, and vocabulary.
 
