@@ -81,43 +81,46 @@ Shows a modern login and registration interface for users to sign in or create t
 Main Dashboard
 This is the central dashboard that welcomes users and provides quick access to core modules (Virtual Assistant, Document Summarizer, Learn English) along with stats about available features.
 
-Screenshot-381.jpg
+![image alt](https://github.com/LokeshChintapalli/Learning_Hub/blob/8982923ae029cb8e12ee193e523963cc1bfb4cbd/Screenshot%20(381).png)
 Module Selection Screen
 Helps users choose between available AI-powered modules: Virtual Assistant, Document Summarizer, and Learn English, each introduced with a brief description.
 
-Screenshot-382.jpg
+![image alt](https://github.com/LokeshChintapalli/Learning_Hub/blob/8982923ae029cb8e12ee193e523963cc1bfb4cbd/Screenshot%20(382).png)
 Create Account Form
 A clean and intuitive Signup page where new users enter their details to join the platform, designed for a smooth onboarding experience.
 
-Screenshot-383.jpg
+![image alt](https://github.com/LokeshChintapalli/Learning_Hub/blob/8982923ae029cb8e12ee193e523963cc1bfb4cbd/Screenshot%20(383).png)
 Document Summarizer Upload
 Demonstrates the drag-and-drop or file selection interface for the Simple Document Summarizer module; supports PDF, DOCX, and TXT files.
 
-Screenshot-384.jpg
+![image alt](https://github.com/LokeshChintapalli/Learning_Hub/blob/8982923ae029cb8e12ee193e523963cc1bfb4cbd/Screenshot%20(384).png)
 Session Complete & Breakdown
 Summarizes the results after a learning session, showing the user’s score, session duration, messages exchanged, new vocabulary, and a detailed skill breakdown.
 
-Screenshot-385.jpg
+![image alt](https://github.com/LokeshChintapalli/Learning_Hub/blob/8982923ae029cb8e12ee193e523963cc1bfb4cbd/Screenshot%20(385).png)
 Choose Learning Level: Easy, Medium, Difficult
 Allows users to set their learning difficulty according to their comfort or challenge level, fostering personalized progression in the Learn English AI module. 
 
 
+![image alt](https://github.com/LokeshChintapalli/Learning_Hub/blob/90a3bc960b528d57e5ce60493254d46a4112bc90/Screenshot%20(379).png)
 English AI Tutor Conversation Example
 Displays a user interacting with the AI English tutor. The chat-style interface allows real conversation practice, and the system gives feedback on pronunciation, grammar, and vocabulary.
 
-Screenshot-386.jpg
+![image alt](https://github.com/LokeshChintapalli/Learning_Hub/blob/8982923ae029cb8e12ee193e523963cc1bfb4cbd/Screenshot%20(386).png)
+
 AI Tutor Features Panel
 Highlights the three core features provided by the AI Tutor—Speech Recognition, Grammar Correction, and Vocabulary Building—for a robust language learning experience.
 
-Screenshot-387.jpg
+
+![image alt](https://github.com/LokeshChintapalli/Learning_Hub/blob/8982923ae029cb8e12ee193e523963cc1bfb4cbd/Screenshot%20(387).png)
 Topic Selection for English AI Tutor
 Enables users to choose among conversation topics (Sports, Business, Travel, Food, Technology, Health), tailoring practice sessions to their interests or needs.
 
-Screenshot-388.jpg
+![image alt](https://github.com/LokeshChintapalli/Learning_Hub/blob/8982923ae029cb8e12ee193e523963cc1bfb4cbd/Screenshot%20(388).png)
 Performance Feedback and Analytics
 Offers detailed per-session feedback including pronunciation score, grammar evaluation, and vocabulary stats, providing users with actionable insights.
 
-Screenshot-390.jpg
+![image alt](https://github.com/LokeshChintapalli/Learning_Hub/blob/8982923ae029cb8e12ee193e523963cc1bfb4cbd/Screenshot%20(390).png)
 Session Completion Analytics
 Displays a visual summary of a session’s achievements (overall score, message count, new vocabulary learned), motivating continued practice and improvement.
 
